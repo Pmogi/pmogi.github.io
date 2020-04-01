@@ -19,7 +19,7 @@ Let's break this down in steps:
 ..2. 3D-CGI -- I've been following tutorial on using Blender and having a blast doing so. I highly recommend it as a creative hobby.
 ..3. Cycling -- Somewhat of a novice cycler, I love riding around and exploring on bike. Great cardio too.
 ..4. Gardening -- Hold me to this blog, I'm interested in getting more into gardening. Having a fresh herb garden is a goal.
-3. Embedded systems -- Arduino is good fun, interested in getting hands-on with bare ARM processor programming through. During university, I got all too familiar with the PIC32 architecture.
+3. Embedded systems -- Arduino is good fun, interested in getting hands-on with bare ARM processor programming. During university, I got all too familiar with the PIC32 architecture.
 4. Engineering -- Along with software, I think electronics are exciting. I never had the time in university to get too hands on with electronics, but I'm familiar with transistor micro-electronics and basic circuit analysis/filters. Thevenin was a pretty cool guy.
 
 ### Contact me
